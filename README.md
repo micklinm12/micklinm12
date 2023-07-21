@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently preparing for my bootcamp program at Tech Elevator!
+I'm currently enrolled in a full-stack software development bootcamp program at Tech Elevator!
